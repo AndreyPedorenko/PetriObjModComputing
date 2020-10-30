@@ -17,15 +17,17 @@ import java.util.Queue;
 
 public class ExpandingTree {
 
-    private static final int petriObjectsAmount = 5;
+    private static final int petriObjectsAmount = 10;
     private static final int mSSesInOneObjectAmount = 10;
     private static final int channelsInOneMSS = 1;
     private static final DelayGenerator generatorDelayGenerator = new ExponentialDelayGenerator(2);
     private static final DelayGenerator mSSDelayGenerator = new ExponentialDelayGenerator(1);
     private static final double timeModeling = 100000;
-    private static final int BRANCHES = 5;
+    private static final int BRANCHES = 2;
 
     public static void main(String[] args) throws Exception {
+
+        System.out.println("Branches: " + BRANCHES);
 
         for (int i = 0; i < 10; ++i) {
 
