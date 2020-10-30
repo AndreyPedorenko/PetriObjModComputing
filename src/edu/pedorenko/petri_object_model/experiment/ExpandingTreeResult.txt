@@ -1,0 +1,68 @@
+Test #1
+Petri objects: 10
+Time modeling: 100000.0
+Sequential real time: 57715
+Parallel real time: 4992
+
+
+Test #2
+Petri objects: 20
+Time modeling: 100000.0
+Sequential real time: 233693
+Parallel real time: 8664
+
+
+Test #3
+Petri objects: 30
+Time modeling: 100000.0
+Sequential real time: 553005
+Parallel real time: 13072
+
+
+Test #4
+Petri objects: 40
+Time modeling: 100000.0
+Sequential real time: 1000222
+Parallel real time: 17264
+
+
+Test #5
+Petri objects: 50
+Time modeling: 100000.0
+Sequential real time: 1575653
+Parallel real time: 22720
+
+
+Test #6
+Petri objects: 60
+Time modeling: 100000.0
+Sequential real time: 2275308
+Parallel real time: 27318
+
+
+Test #7
+Petri objects: 70
+Time modeling: 100000.0
+Sequential real time: 3113376
+Parallel real time: 31877
+
+
+Test #8
+Petri objects: 80
+Time modeling: 100000.0
+Sequential real time: 4100647
+Parallel real time: 36241
+
+
+Test #9
+Petri objects: 90
+Time modeling: 100000.0
+Sequential real time: 5078499
+Parallel real time: 42242
+
+
+Test #10
+Petri objects: 100
+Time modeling: 100000.0
+Sequential real time: 6420950
+Parallel real time: 46918
