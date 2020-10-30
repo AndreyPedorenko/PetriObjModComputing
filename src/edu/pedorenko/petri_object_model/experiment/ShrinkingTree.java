@@ -27,6 +27,7 @@ public class ShrinkingTree {
 
     public static void main(String[] args) throws Exception {
 
+        System.out.println("SHRINKING");
         System.out.println("Branches: " + BRANCHES);
 
         for (int i = 0; i < 10; ++i) {
