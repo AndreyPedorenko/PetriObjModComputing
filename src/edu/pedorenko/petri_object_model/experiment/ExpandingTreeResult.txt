@@ -1,3 +1,5 @@
+BRANCHES: 5
+
 Test #1
 Petri objects: 10
 Time modeling: 100000.0
