@@ -1,3 +1,75 @@
+EXPANDING
+Branches: 2
+Test #1
+Petri objects: 10
+Time modeling: 100000.0
+Sequential real time: 58484
+Parallel real time: 4846
+
+
+Test #2
+Petri objects: 20
+Time modeling: 100000.0
+Sequential real time: 235682
+Parallel real time: 8113
+
+
+Test #3
+Petri objects: 30
+Time modeling: 100000.0
+Sequential real time: 553485
+Parallel real time: 12695
+
+
+Test #4
+Petri objects: 40
+Time modeling: 100000.0
+Sequential real time: 993419
+Parallel real time: 17276
+
+
+Test #5
+Petri objects: 50
+Time modeling: 100000.0
+Sequential real time: 1597052
+Parallel real time: 22931
+
+
+Test #6
+Petri objects: 60
+Time modeling: 100000.0
+Sequential real time: 2287862
+Parallel real time: 27169
+
+
+Test #7
+Petri objects: 70
+Time modeling: 100000.0
+Sequential real time: 3098186
+Parallel real time: 31895
+
+
+Test #8
+Petri objects: 80
+Time modeling: 100000.0
+Sequential real time: 4109586
+Parallel real time: 35792
+
+
+Test #9
+Petri objects: 90
+Time modeling: 100000.0
+Sequential real time: 5213609
+Parallel real time: 41631
+
+
+Test #10
+Petri objects: 100
+Time modeling: 100000.0
+Sequential real time: 6448360
+Parallel real time: 45922
+
+
 BRANCHES: 5
 
 Test #1
