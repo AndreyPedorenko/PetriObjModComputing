@@ -68,3 +68,74 @@ Petri objects: 100
 Time modeling: 100000.0
 Sequential real time: 8141863
 Parallel real time: 82178
+
+SHRINKING
+Branches: 5
+Test #1
+Petri objects: 10
+Time modeling: 100000.0
+Sequential real time: 77089
+Parallel real time: 8019
+
+
+Test #2
+Petri objects: 20
+Time modeling: 100000.0
+Sequential real time: 288204
+Parallel real time: 12697
+
+
+Test #3
+Petri objects: 30
+Time modeling: 100000.0
+Sequential real time: 673246
+Parallel real time: 19345
+
+
+Test #4
+Petri objects: 40
+Time modeling: 100000.0
+Sequential real time: 1205571
+Parallel real time: 24984
+
+
+Test #5
+Petri objects: 50
+Time modeling: 100000.0
+Sequential real time: 1863235
+Parallel real time: 34853
+
+
+Test #6
+Petri objects: 60
+Time modeling: 100000.0
+Sequential real time: 2667059
+Parallel real time: 40901
+
+
+Test #7
+Petri objects: 70
+Time modeling: 100000.0
+Sequential real time: 3603137
+Parallel real time: 47180
+
+
+Test #8
+Petri objects: 80
+Time modeling: 100000.0
+Sequential real time: 4753262
+Parallel real time: 53997
+
+
+Test #9
+Petri objects: 90
+Time modeling: 100000.0
+Sequential real time: 6020603
+Parallel real time: 62202
+
+
+Test #10
+Petri objects: 100
+Time modeling: 100000.0
+Sequential real time: 7371254
+Parallel real time: 67252
