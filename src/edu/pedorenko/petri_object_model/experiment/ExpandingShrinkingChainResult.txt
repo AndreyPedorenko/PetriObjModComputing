@@ -1,0 +1,71 @@
+EXPANDING_SHRINKING_CHAIN
+Branches: 2
+Test #1
+Petri objects: 10
+Time modeling: 100000.0
+Sequential real time: 90738
+Parallel real time: 8567
+
+
+Test #2
+Petri objects: 20
+Time modeling: 100000.0
+Sequential real time: 401465
+Parallel real time: 17644
+
+
+Test #3
+Petri objects: 30
+Time modeling: 100000.0
+Sequential real time: 969433
+Parallel real time: 27518
+
+
+Test #4
+Petri objects: 40
+Time modeling: 100000.0
+Sequential real time: 1782105
+Parallel real time: 36449
+
+
+Test #5
+Petri objects: 50
+Time modeling: 100000.0
+Sequential real time: 2799940
+Parallel real time: 48412
+
+
+Test #6
+Petri objects: 60
+Time modeling: 100000.0
+Sequential real time: 4042854
+Parallel real time: 57799
+
+
+Test #7
+Petri objects: 70
+Time modeling: 100000.0
+Sequential real time: 5509450
+Parallel real time: 67681
+
+
+Test #8
+Petri objects: 80
+Time modeling: 100000.0
+Sequential real time: 7292689
+Parallel real time: 77376
+
+
+Test #9
+Petri objects: 90
+Time modeling: 100000.0
+Sequential real time: 9334024
+Parallel real time: 88135
+
+
+Test #10
+Petri objects: 100
+Time modeling: 100000.0
+Sequential real time: 11526025
+Parallel real time: 96625
+
